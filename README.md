@@ -1,2 +1,2 @@
-# Javascript_Expressions_in_JSX_Practice
+# Javascript_Expressions_in_JSX
 Created with CodeSandbox
